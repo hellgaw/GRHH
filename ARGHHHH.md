@@ -1,4 +1,4 @@
-# Seminar 1. Git42
+# Seminar 1. Git
 
 <font size = 7> Git Commands:</font> 
 
